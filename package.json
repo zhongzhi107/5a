@@ -1,0 +1,24 @@
+{
+  "name": "5a-tourist-spot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongzhi107/5A-tourist-spot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongzhi107/5A-tourist-spot/issues"
+  },
+  "homepage": "https://github.com/zhongzhi107/5A-tourist-spot#readme",
+  "devDependencies": {
+    "koa": "^2.15.0",
+    "koa-static": "^5.0.0"
+  }
+}
