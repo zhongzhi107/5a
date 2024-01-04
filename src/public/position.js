@@ -882,10 +882,10 @@ var data = [
     year: '2013',
     latitude: '120.443832',
     longitude: '31.219682',
-    zz: 0,
-    wtn: 0,
-    coco: 0,
-    xiaoai: 0
+    zz: 1,
+    wtn: 1,
+    coco: 1,
+    xiaoai: 1
   },
   {
     name: '苏州市沙家浜·虞山尚湖旅游区',
